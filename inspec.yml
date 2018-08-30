@@ -1,0 +1,7 @@
+name: gdpr_examples
+title: GDPR Example Controls
+maintainer: Chef CFT
+copyright: Chef Software
+license: Apache-2.0
+summary: An InSpec Compliance Profile
+version: 0.1.0
